@@ -1,0 +1,6 @@
+# environment file
+.env
+# virtual enviroment
+venv
+# vector database
+chroma_db
