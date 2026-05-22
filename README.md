@@ -21,13 +21,13 @@ Embeddings allow for the calculation of similarities between data points, so whe
 # How to run the code?
 
 ## Step1: build the virtual environment
-### command: python -m venv venv
+command: python -m venv venv
 
 ## Step2: install the requirements
-### command: pip install -r requirements.txt
+command: pip install -r requirements.txt
 
 ## Step3: create .env file
-### generate the groq api (https://groq.com/) and save it in .evn as, GROQ_API_KEY = YOUR_API_KEY
+generate the groq api (https://groq.com/) and save it in .evn as, GROQ_API_KEY = YOUR_API_KEY
 
 ## Step4: run the code
-### command: python app.py
+command: python app.py
